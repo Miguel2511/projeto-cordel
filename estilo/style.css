@@ -82,7 +82,7 @@ section > p {
 .imagem {       
     position: relative;
     height: 400px;
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
     background-position: 51% 89%;
     background-size: cover;
     background-attachment: fixed;
